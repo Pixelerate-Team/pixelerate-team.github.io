@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://pixelerate-team.github.io</id>
+    <title>PixeLeRatE官网</title>
+    <updated>2025-08-06T12:46:19.961Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://pixelerate-team.github.io"/>
+    <link rel="self" href="https://pixelerate-team.github.io/atom.xml"/>
+    <subtitle>PixeLeRatE Team，一个专注于创作像素游戏的团队
+这里可交流有关于马里奥的所有内容（包括（同人）游戏以及同人影视动画作品）</subtitle>
+    <logo>https://pixelerate-team.github.io/images/avatar.png</logo>
+    <icon>https://pixelerate-team.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, PixeLeRatE官网</rights>
+    <entry>
+        <title type="html"><![CDATA[关于PixeLeRatE Team]]></title>
+        <id>https://pixelerate-team.github.io/post/About-pixelerate-team/</id>
+        <link href="https://pixelerate-team.github.io/post/About-pixelerate-team/">
+        </link>
+        <updated>2025-08-05T14:46:33.000Z</updated>
+        <content type="html"><![CDATA[<p>PixeLeRatE Team，一个专注于创作像素游戏的团队<br>
+这里可交流有关于马里奥的所有内容（包括（同人）游戏以及同人影视动画作品）<br>
+<img src="https://pixelerate-team.github.io/post-images/1754405288878.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
